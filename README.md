@@ -6,52 +6,6 @@ O objetivo deste README é servir não apenas como apresentação do projeto, ma
 
 ---
 
-# Sumário
-
-* [1. História do Java](#1-história-do-java)
-* [2. Como Funciona o Java](#2-como-funciona-o-java)
-* [3. JDK, JRE e JVM](#3-jdk-jre-e-jvm)
-* [4. IDE](#4-ide)
-* [5. Primeiro Programa em Java](#5-primeiro-programa-em-java)
-* [6. Estrutura de um Programa Java](#6-estrutura-de-um-programa-java)
-* [7. Convenções de Nomenclatura](#7-convenções-de-nomenclatura)
-* [8. Tipos de Dados e Variáveis](#8-tipos-de-dados-e-variáveis)
-* [9. Entrada de Dados com Scanner](#9-entrada-de-dados-com-scanner)
-* [10. Saída de Dados](#10-saída-de-dados)
-* [11. Conversão de Tipos](#11-conversão-de-tipos)
-* [12. Operadores Aritméticos](#12-operadores-aritméticos)
-* [13. Incremento e Decremento](#13-incremento-e-decremento)
-* [14. Operadores de Atribuição](#14-operadores-de-atribuição)
-* [15. Classe Math](#15-classe-math)
-* [16. Operadores Lógicos e Relacionais](#16-operadores-lógicos-e-relacionais)
-* [17. Operador Ternário](#17-operador-ternário)
-* [18. Comparação de Strings](#18-comparação-de-strings)
-* [19. Estruturas Condicionais](#19-estruturas-condicionais)
-* [20. Estrutura if](#20-estrutura-if)
-* [21. Estrutura if/else](#21-estrutura-ifelse)
-* [22. Estrutura else if](#22-estrutura-else-if)
-* [23. Estrutura switch](#23-estrutura-switch)
-* [24. Estruturas de Repetição](#24-estruturas-de-repetição)
-* [25. Estrutura while](#25-estrutura-while)
-* [26. Comando continue](#26-comando-continue)
-* [27. Comando break](#27-comando-break)
-* [28. Estrutura do-while](#28-estrutura-do-while)
-* [29. Acumuladores](#29-acumuladores)
-* [30. Estrutura for](#30-estrutura-for)
-* [31. Variações do for](#31-variações-do-for)
-* [32. Laços Aninhados](#32-laços-aninhados)
-* [33. Métodos, Funções e Procedimentos](#33-métodos-funções-e-procedimentos)
-* [34. Parâmetros](#34-parâmetros)
-* [35. Retorno com return](#35-retorno-com-return)
-* [36. Métodos em Classes Separadas](#36-métodos-em-classes-separadas)
-* [37. Vetores](#37-vetores)
-* [38. Arrays](#38-arrays)
-* [39. Organização dos Arquivos](#39-organização-dos-arquivos)
-* [40. Resumo Geral](#40-resumo-geral)
-* [41. Pontos Importantes para Revisão](#41-pontos-importantes-para-revisão)
-
----
-
 # 1. História do Java
 
 Java surgiu como uma linguagem criada pela **Sun Microsystems**, tendo **James Gosling** como uma das principais figuras responsáveis pelo desenvolvimento.
