@@ -2261,62 +2261,38 @@ O objetivo do projeto é manter os códigos organizados, registrar a evolução 
 
 # Guia Completo de Estudos Java - Quarto Bimestre
 
-Aula 01 — Introdução à Programação Orientada a Objetos (POO)
+A## Aula 01 — Introdução à Programação Orientada a Objetos (POO)
 
-📺 Aula: O que é Programação Orientada a Objetos — Curso em Vídeo
+**Aula:** [O que é Programação Orientada a Objetos — Curso em Vídeo](https://youtu.be/KlIL63MeyMY)
 
- O que é POO?
+### O que é POO?
 
-A Programação Orientada a Objetos (POO) é um paradigma de programação que organiza o código utilizando objetos que representam entidades ou elementos do mundo real.
+A **Programação Orientada a Objetos (POO)** é um paradigma de programação que organiza o código por meio de objetos, facilitando a criação de sistemas organizados, reutilizáveis e de fácil manutenção.
 
-Seu objetivo é tornar o desenvolvimento de software mais organizado, reutilizável, flexível e fácil de manter.
+### Evolução da programação
 
- Evolução da programação
+- **Programação linear:** execução de instruções em sequência.
+- **Programação estruturada:** organização do código por meio de estruturas de controle e procedimentos.
+- **Programação modular:** divisão do programa em módulos menores.
+- **Programação Orientada a Objetos:** organização do código em objetos que possuem dados e comportamentos.
 
-A programação evoluiu ao longo do tempo para facilitar a organização e o desenvolvimento de sistemas:
+### Conceitos importantes
 
-Baixo nível: instruções mais próximas do funcionamento do computador.
+- **Classe:** modelo que define a estrutura e os comportamentos dos objetos.
+- **Objeto:** instância de uma classe.
+- **Atributos:** características ou dados de um objeto.
+- **Métodos:** ações ou comportamentos de um objeto.
 
-Programação linear: execução de instruções em sequência.
+**Exemplo:** uma conta bancária pode possuir os atributos `saldo` e `numeroConta`, além dos métodos `depositar()` e `sacar()`.
 
-Programação estruturada: organização do código com estruturas de controle e procedimentos.
+### Vantagens da POO
 
-Programação modular: divisão do sistema em módulos com responsabilidades específicas.
+A expressão **COMER NADA** ajuda a memorizar seis vantagens da Programação Orientada a Objetos:
 
-Programação Orientada a Objetos: organização do código em objetos que reúnem dados e comportamentos relacionados.
-
- Conceitos importantes
-
-Objeto: representa uma entidade com características e comportamentos.
-
-Atributos: representam os dados ou as características de um objeto.
-
-Métodos: representam as ações ou os comportamentos de um objeto.
-
-Classe: define a estrutura a partir da qual os objetos são criados.
-
-Exemplo: em um sistema bancário, uma conta pode ter atributos como saldo e número da conta, além de métodos como depositar e sacar.
-
- Principais vantagens da POO
-
-A aula apresenta seis vantagens que podem ser memorizadas pela expressão COMER NADA:
-
-C — Confiável: componentes bem organizados ajudam a reduzir impactos de alterações em outras partes do sistema.
-
-O — Oportuna: diferentes partes do sistema podem ser desenvolvidas em paralelo.
-
-M — Manutenível: facilita a correção de erros e a realização de alterações.
-
-E — Extensível: permite adicionar funcionalidades ao sistema.
-
-R — Reutilizável: possibilita aproveitar códigos e componentes em diferentes partes do projeto.
-
-N — Natural: aproxima a lógica do programa de situações e elementos do mundo real.
-
- POO em Java
-
-Java utiliza a Programação Orientada a Objetos como base para organizar aplicações. Por isso, é importante compreender os conceitos de classes, objetos, atributos e métodos antes de avançar para assuntos mais complexos.
-
+- **C — Confiável:** favorece a organização e a confiabilidade do sistema.
+- **O — Oportuna:** permite desenvolver diferentes partes do sistema em paralelo.
+- **M — Manutenível:** facilita a correção de erros e a realização de alterações.
+- **E — Extensível:** permite adicionar novas funcionalidades.
 
 ---
 
