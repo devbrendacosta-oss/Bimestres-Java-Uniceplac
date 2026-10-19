@@ -2261,7 +2261,7 @@ O objetivo do projeto é manter os códigos organizados, registrar a evolução 
 
 # Guia Completo de Estudos Java - Quarto Bimestre
 
-A## Aula 01 — Introdução à Programação Orientada a Objetos (POO)
+## Aula 01 — Introdução à Programação Orientada a Objetos (POO)
 
 **Aula:** [O que é Programação Orientada a Objetos — Curso em Vídeo](https://youtu.be/KlIL63MeyMY)
 
