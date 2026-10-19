@@ -1,4 +1,4 @@
-# Guia Completo de Estudos Java
+# Guia Completo de Estudos Java - Terceiro Bimestre
 
 Este repositório reúne os conteúdos estudados durante o aprendizado dos fundamentos da linguagem **Java**, com base nas aulas do curso de Java do **Gustavo Guanabara — Curso em Vídeo** e nos exercícios práticos desenvolvidos durante os estudos.
 
@@ -2259,6 +2259,7 @@ A sequência dos conteúdos permite compreender como pequenos comandos podem ser
 
 O objetivo do projeto é manter os códigos organizados, registrar a evolução dos estudos e servir como **material de consulta e revisão dos fundamentos de Java**.
 
+# Guia Completo de Estudos Java - Quarto Bimestre
 ---
 
 **Repositório destinado a estudos e fins acadêmicos.**
